@@ -1,0 +1,24 @@
+El usuario/password de la VPN es:   RAVIL11/abb2015
+usuario ravila Summa2014
+
+##################### Conexion unix Ellipse 5.2.3 ##############################
+ip: 10.253.229.33
+elldesa
+ventyx14
+
+##################### Comando para subir/bajar el servicio de Ellipse###########
+Usuario:root
+Password:ventyx
+service ellipse stop
+
+##################### Comandos para subir el archivo ###########################
+sftp ellipse01.el8desa
+Summa2014
+cd /appliance/data/conf/git-repos/customer-software/hooks/src
+lcd /home/ravila
+put 
+
+##################### Directorios de la aplicacion #############################
+cd /appliance/data/conf/git-repos/customer-software/hooks/src
+cd /appliance/data/conf/git-repos/customer-software/batch/src/com/mincom/ellipse/script/custom/
+

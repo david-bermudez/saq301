@@ -1,0 +1,15 @@
+select b.superior_id,
+
+c.employee_id
+
+from ellipse.saf3a0 a , ellipse.msf875 b, ellipse.msf878 c
+
+where a.contract_no = '&contrato' and a.act_paid_no = '&acta'
+
+and rpad(a.pos_enviador,10,' ') = b.position_id
+
+and b.superior_id = c.position_id
+
+and (c.pos_stop_date = '00000000' or c.pos_stop_date>=TO_CHAR(sysdate,'YYYYMMDD'))
+
+and rownum < 2

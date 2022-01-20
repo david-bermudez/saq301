@@ -1,0 +1,145 @@
+[FileVersion]
+Version=6.0
+[Compiler]
+A=8
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=0
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=1
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+[Directories]
+OutputDir=exe
+UnitOutputDir=dcu
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=
+Packages=vcl;rtl;dbrtl;adortl;vcldb;vclx;bdertl;vcldbx;ibxpress;dsnap;cds;bdecds;qrpt;teeui;teedb;tee;dss;teeqr;visualclx;visualdbclx;dsnapcrba;dsnapcon;VclSmp;vclshlctrls;vclie;xmlrtl;inet;inetdbbde;inetdbxpress;inetdb;nmfast;webdsnap;websnap;dbexpress;dbxcds;indy;dclOffice2k
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams=
+HostApplication=
+Launcher=
+UseLauncher=0
+DebugCWD=
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=4
+MinorVer=1
+Release=72
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=4.1.72.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlUnitOutputDirectory]
+Count=26
+Item0=dcu
+Item1=G:\fuentes actas de pago\V061\Saq301\dcu
+Item2=G:\V060\V060\Saq301\dcu
+Item3=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V060\Saq301\dcu
+Item4=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V059\Saq301\dcu
+Item5=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V058\Saq301\dcu
+Item6=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V057\Saq301\dcu
+Item7=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V056\Saq301\dcu
+Item8=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V055\Saq301\dcu
+Item9=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V054\Saq301\dcu
+Item10=dcu\
+Item11=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V052\Saq301\dcu
+Item12=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V051\Saq301\dcu
+Item13=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V050\Saq301\dcu
+Item14=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V048\Saq301\dcu
+Item15=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V047\Saq301\dcu
+Item16=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V046\Saq301\dcu
+Item17=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V045\Saq301\dcu
+Item18=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V044\Saq301\dcu
+Item19=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V043\Saq301\dcu
+Item20=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V042\Saq301\dcu
+Item21=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V040\Saq301\dcu
+Item22=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V038\Saq301\dcu
+Item23=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V036\Saq301\dcu
+Item24=d:\ogui\exe\dcu
+Item25=c:\ogui\exe\dcu
+[HistoryLists\hlOutputDirectorry]
+Count=26
+Item0=exe
+Item1=G:\fuentes actas de pago\V061\Saq301\exe
+Item2=G:\V060\V060\Saq301\exe
+Item3=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V060\Saq301\exe
+Item4=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V059\Saq301\exe
+Item5=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V058\Saq301\exe
+Item6=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V057\Saq301\exe
+Item7=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V056\Saq301\exe
+Item8=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V055\Saq301\exe
+Item9=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V054\Saq301\exe
+Item10=exe\
+Item11=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V052\Saq301\exe
+Item12=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V051\Saq301\exe
+Item13=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V050\Saq301\exe
+Item14=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V048\Saq301\exe
+Item15=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V047\Saq301\exe
+Item16=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V046\Saq301\exe
+Item17=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V045\Saq301\exe
+Item18=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V044\Saq301\exe
+Item19=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V043\Saq301\exe
+Item20=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V042\Saq301\exe
+Item21=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V040\Saq301\exe
+Item22=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V038\Saq301\exe
+Item23=D:\Ventyx\Cerrejon\Actas de pago\Fuentes\V036\Saq301\exe
+Item24=d:\ogui\exe
+Item25=c:\ogui\exe
